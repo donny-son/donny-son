@@ -1,2 +1,1 @@
-![donny-son GitHub Stats](https://server.dooboo.io/github-stats/donny-son)
-
+![](https://stats.hyochan.dev/api/github-stats-advanced?login=donny-son)
