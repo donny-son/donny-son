@@ -1,1 +1,3 @@
-![](https://stats.hyochan.dev/api/github-stats-advanced?login=donny-son)
+Please do not read me, just talk to me.
+
+dongook@bulkrum.kr
